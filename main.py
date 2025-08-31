@@ -19,6 +19,8 @@ i, return1, return2 = cal(a,b)
 
 # return2 = subtract(a,b)
 
+print("Hi ")
+
 print(return1)
 
 print(return2)
