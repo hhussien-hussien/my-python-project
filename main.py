@@ -19,7 +19,7 @@ i, return1, return2 = cal(a,b)
 
 # return2 = subtract(a,b)
 
-print("Hi ")
+print("Hi")
 
 print(return1)
 
